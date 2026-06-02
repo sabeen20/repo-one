@@ -1,0 +1,21 @@
+.nt{
+background-image: url("hi.webp");
+height: 250PX;
+width: 1000PX;
+background-repeat: no-repeat;
+text-align:center;
+margin-left: 15%;
+color: rgb(7, 7, 102);
+padding: 20PX ;
+margin-top: 0;
+
+}
+.mimi{
+    background-color: rgba(32, 245, 32, 0.192);
+}
+  
+  .bid{
+   margin-left: 20%; 
+   margin-bottom: 2%;
+    
+  }
